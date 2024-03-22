@@ -8,7 +8,7 @@ torch.manual_seed(0)  # For reproducibility
 # H     : hidden dimension
 # D_out : output dimension.
 N, D_in, H, D_out = 64, 1000, 100, 10
-learning_rate = 1e-6 # 1e-6だと大きすぎて発散してしま
+learning_rate = 1e-6
 layer_size = 10
 
 # Create random input
