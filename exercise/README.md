@@ -1,7 +1,7 @@
 
 # exercises
 
-[新メンバー用の課題](https://github.com/tomomiyazaki/exercises)
+新メンバー用の課題([リンク](https://github.com/tomomiyazaki/exercises))
 
 Pythonを用いた画像処理を学ぶ
 
