@@ -3,8 +3,6 @@
 
 新メンバー用の課題([link](https://github.com/tomomiyazaki/exercises))
 
-Pythonを用いた画像処理を学ぶ
-
 
 1. Pythonの環境構築
 2. Pythonの基礎練習
