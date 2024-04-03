@@ -5,3 +5,4 @@ conda create -n jikkend_2 python=3.6
 conda activate jikkend_2
 conda install pytorch
 conda install pandas matplotlib scikit-image
+```
