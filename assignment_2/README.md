@@ -5,4 +5,5 @@ conda create -n jikkend_2 python=3.6
 conda activate jikkend_2
 conda install pytorch torchvision
 conda install pandas matplotlib scikit-image
+conda install ipykernel
 ```
