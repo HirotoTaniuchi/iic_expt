@@ -6,4 +6,5 @@ conda activate jikkend_2
 conda install pytorch torchvision
 conda install pandas matplotlib scikit-image
 conda install ipykernel
+conda install tqdm
 ```
